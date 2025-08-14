@@ -15,3 +15,19 @@ Usa `#` para crear encabezados (hasta 6 niveles).
 #### Título nivel 4
 ##### Título nivel 5
 ###### Título nivel 6
+
+*Texto en cursiva* o _Texto en cursiva_
+**Texto en negrita** o __Texto en negrita__
+***Negrita y cursiva al mismo tiempo***
+
+- Elemento 1
+- Elemento 2
+  - Sub-elemento
+
+- Elemento 1
+- Elemento 2
+  - Sub-elemento
+
+1. Primer paso
+2. Segundo paso
+3. Tercer paso
