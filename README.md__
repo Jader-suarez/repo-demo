@@ -1,3 +1,16 @@
+Claro, aquí tienes un archivo Markdown que sirve como **guía básica para etiquetar documentos Markdown**. Este archivo contiene ejemplos y explicaciones breves para ayudarte a estructurar y dar formato correctamente a tus documentos `.md`.
+
+---
+
+### 📄 `guia-etiquetado-markdown.md`
+
+````markdown
+# Guía para Etiquetar Documentos Markdown
+
+Esta guía proporciona ejemplos y buenas prácticas para etiquetar y dar formato a documentos Markdown.
+
+---
+
 ## 1. Encabezados
 
 Usa `#` para crear encabezados (hasta 6 niveles).
@@ -141,5 +154,11 @@ Segunda línea.
 * [Guía Markdown en español](https://markdown.es/)
 
 ```
+
+---
+
+¿Quieres que te lo entregue como archivo `.md` descargable o prefieres copiarlo directamente desde aquí?
+```
+
 
 
